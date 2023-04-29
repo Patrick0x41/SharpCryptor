@@ -1,0 +1,9 @@
+C:\Users\patri\source\repos\Cryptor\Cryptor\obj\Debug\CryptorTUT.XC.resources
+C:\Users\patri\source\repos\Cryptor\Cryptor\obj\Debug\Cryptor.Properties.Resources.resources
+C:\Users\patri\source\repos\Cryptor\Cryptor\obj\Debug\Cryptor.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\Cryptor\Cryptor\obj\Debug\Cryptor.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Cryptor\Cryptor\bin\Debug\Cryptor.exe.config
+C:\Users\patri\source\repos\Cryptor\Cryptor\bin\Debug\Cryptor.exe
+C:\Users\patri\source\repos\Cryptor\Cryptor\bin\Debug\Cryptor.pdb
+C:\Users\patri\source\repos\Cryptor\Cryptor\obj\Debug\Cryptor.exe
+C:\Users\patri\source\repos\Cryptor\Cryptor\obj\Debug\Cryptor.pdb

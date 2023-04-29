@@ -1,0 +1,9 @@
+C:\Users\patri\source\repos\Cryptor\Stub\bin\Debug\Stub.exe.config
+C:\Users\patri\source\repos\Cryptor\Stub\bin\Debug\Stub.exe
+C:\Users\patri\source\repos\Cryptor\Stub\bin\Debug\Stub.pdb
+C:\Users\patri\source\repos\Cryptor\Stub\obj\Debug\Stub.Properties.Resources.resources
+C:\Users\patri\source\repos\Cryptor\Stub\obj\Debug\Stub.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\Cryptor\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Cryptor\Stub\obj\Debug\Stub.exe
+C:\Users\patri\source\repos\Cryptor\Stub\obj\Debug\Stub.pdb
+C:\Users\patri\source\repos\Cryptor\Stub\obj\Debug\Stub.csproj.AssemblyReference.cache
