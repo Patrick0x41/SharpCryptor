@@ -1,6 +1,6 @@
 # SharpCryptor
 ![Program](https://i.imgur.com/YAbJFs8.png)
-- An PE Loader for .NET and Native binaries
+- An PE Loader for .NET and Native binaries 32 - bit
 ### OPSEC Note 🚩
 This tool is intended for education and it's not OPSEC
 #### Todo 
